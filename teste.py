@@ -26,6 +26,6 @@ if preço > 0:
         print('Opção INVALIDA! Tenta novamente')
     print('Voce pagará o valor total de R${:.2f}'.format(total))
 else:
-    print('valor da compra deve ser maior que 0,00')
-    
+    print('Valor da compra deve ser maior que 0,00')
+
 
