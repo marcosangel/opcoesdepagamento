@@ -1,4 +1,4 @@
-print('='*31)
+print('='*30)
 print('OPÇÕES DE PAGAMENTO')
 print('='*31)
 preço = float(input('Valor total das compras:R$'))
