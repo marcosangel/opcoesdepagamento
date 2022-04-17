@@ -1,11 +1,11 @@
-print('='*30)
+print('='*35)
 print('OPÇÕES DE PAGAMENTO')
-print('='*30)
+print('='*35)
 preço = float(input('Valor total das compras:R$'))
 if preço > 0:
     print('''FORMAS DE PAGAMENTO
     [ 1 ] À vista dinheiro/cheque, 10% desconto
-    [ 2 ] À vista no cartão, 5% desconto
+    [ 2 ] À vista  no cartão, 5% desconto
     [ 3 ] 2x no cartão, preço normal
     [ 4 ] 3x ou mais no cartão, 20% juros''')
     opção = int(input('Digite a opção que deseja: '))
